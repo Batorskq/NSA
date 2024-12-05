@@ -1,6 +1,6 @@
 ### NSA: Neuro-symbolic ARC Challenge
 
-![Teaser Image](images/teaser.pdf)
+![Teaser Image](images/teaser.png)
 
 # Abstract
 The Abstraction and Reasoning Corpus (ARC) evaluates general reasoning capabilities that are difficult for both machine learning models and combinatorial search methods. 
